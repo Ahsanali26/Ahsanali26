@@ -6,18 +6,18 @@
 </p>
 <br>
 
-<p align="center" style="display: flex; align-items:center; justify-content: center;" >
-    <img width="5%" style="padding: 0px 20px;" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
-    <b>m.ahsanali26@gmail.com</b>
-</p>
-<br>
-
 <p align="center">
     <a>
         <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47k6052alc3n7ea8fkjkg8sbvzg6pj6gfbd7an2j3j&amp;rid=giphy.gif&amp;ct=s" alt="Pc Coding Sticker by IYKRA.com" style="width: 500px; height: 500px; left: 0px; top: 0px;">
     </a>
 </p>
 <br>
+
+<p align="center">
+    👨‍💻 <b>open for work</b>
+    <b>**Gmail** m.ahsanali26@gmail.com</b>
+</p>
+<br> 
 
 <h1 align="center" style="font-size: 30px;">Languages and Tools</h1>
 <p align="center">
