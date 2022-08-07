@@ -16,7 +16,7 @@
 <p align="center">
     👨‍💻 <b>OPEN FOR WORK &nbsp;</b>
     <br>
-    <b>GMAIL</b>: m.ahsanali26@gmail.com
+    <b>GMAIL: m.ahsanali26@gmail.com</b>
 </p>
 <br>
 
