@@ -14,9 +14,9 @@
 <br>
 
 <p align="center">
-    👨‍💻 <b>open for work</b>
+    👨‍💻 OPEN FOR WORK &nbsp;
     <b>**Gmail** m.ahsanali26@gmail.com</b>
-</p>
+</p> 
 <br> 
 
 <h1 align="center" style="font-size: 30px;">Languages and Tools</h1>
