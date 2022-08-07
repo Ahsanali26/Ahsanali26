@@ -13,12 +13,12 @@
 </p>
 <br>
 
-<p align="center" style="font-size: 22px;">
+<h3 align="center">
     👨‍💻 <b>OPEN FOR WORK &nbsp;</b>
     <br>
     <br>
     <b>GMAIL: m.ahsanali26@gmail.com</b>
-</p>
+</h3>
 <br> 
 
 <h1 align="center" style="font-size: 30px;">Languages and Tools</h1>
